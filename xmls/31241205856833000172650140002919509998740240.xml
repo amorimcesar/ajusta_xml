@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe">
+  <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+    <infNFe versao="4.00" Id="NFe31241205856833000172650140002919509998740240">
+      <ide>
+        <cUF>31</cUF>
+        <cNF>99874024</cNF>
+        <natOp>VENDA PARA CONSUMIDOR FINAL</natOp>
+        <mod>65</mod>
+        <serie>14</serie>
+        <nNF>291950</nNF>
+        <dhEmi>2024-12-09T16:54:16-03:00</dhEmi>
+        <tpNF>1</tpNF>
+        <idDest>1</idDest>
+        <cMunFG>3135308</cMunFG>
+        <tpImp>4</tpImp>
+        <tpEmis>9</tpEmis>
+        <cDV>0</cDV>
+        <tpAmb>1</tpAmb>
+        <finNFe>1</finNFe>
+        <indFinal>1</indFinal>
+        <indPres>1</indPres>
+        <indIntermed>0</indIntermed>
+        <procEmi>0</procEmi>
+        <verProc>SommusPDV</verProc>
+        <dhCont>2024-12-09T09:47:29-03:00</dhCont>
+        <xJust>[SommusPDV] SEFAZ inoperante.</xJust>
+      </ide>
+      <emit>
+        <CNPJ>05856833000172</CNPJ>
+        <xNome>COMERCIAL EMILIO LTDA</xNome>
+        <xFant>SUPERMERCADO EMILIO</xFant>
+        <enderEmit>
+          <xLgr>SAO SIMAO</xLgr>
+          <nro>250</nro>
+          <xBairro>CENTRO</xBairro>
+          <cMun>3135308</cMun>
+          <xMun>JAPARAIBA</xMun>
+          <UF>MG</UF>
+          <CEP>35580000</CEP>
+          <cPais>1058</cPais>
+          <xPais>Brasil</xPais>
+          <fone>3733541141</fone>
+        </enderEmit>
+        <IE>3532506940009</IE>
+        <CRT>3</CRT>
+      </emit>
+      <det nItem="1">
+        <prod>
+          <cProd>12946</cProd>
+          <cEAN>7896026801096</cEAN>
+          <xProd>PAPEL HIG. DUETTO VELVET NEUTRO 30M</xProd>
+          <NCM>48181000</NCM>
+          <CEST>2004200</CEST>
+          <CFOP>5405</CFOP>
+          <uCom>UN.</uCom>
+          <qCom>1.0000</qCom>
+          <vUnCom>6.4900000000</vUnCom>
+          <vProd>6.49</vProd>
+          <cEANTrib>7896026801096</cEANTrib>
+          <uTrib>UN.</uTrib>
+          <qTrib>1.0000</qTrib>
+          <vUnTrib>6.4900000000</vUnTrib>
+          <indTot>1</indTot>
+        </prod>
+        <imposto>
+          <ICMS>
+            <ICMS60>
+              <orig>0</orig>
+              <CST>60</CST>
+              <pRedBCEfet>0.0000</pRedBCEfet>
+              <vBCEfet>6.49</vBCEfet>
+              <pICMSEfet>18.0000</pICMSEfet>
+              <vICMSEfet>1.17</vICMSEfet>
+            </ICMS60>
+          </ICMS>
+          <PIS>
+            <PISNT>
+              <CST>06</CST>
+            </PISNT>
+          </PIS>
+          <COFINS>
+            <COFINSNT>
+              <CST>06</CST>
+            </COFINSNT>
+          </COFINS>
+        </imposto>
+      </det>
+      <det nItem="2">
+        <prod>
+          <cProd>05717</cProd>
+          <cEAN>7894650013281</cEAN>
+          <xProd>INSET RAID ELET LIQ 45N 32,9ML RF GTS AP</xProd>
+          <NCM>38089119</NCM>
+          <CFOP>5102</CFOP>
+          <uCom>UN.</uCom>
+          <qCom>1.0000</qCom>
+          <vUnCom>17.9000000000</vUnCom>
+          <vProd>17.90</vProd>
+          <cEANTrib>7894650013281</cEANTrib>
+          <uTrib>UN.</uTrib>
+          <qTrib>1.0000</qTrib>
+          <vUnTrib>17.9000000000</vUnTrib>
+          <indTot>1</indTot>
+        </prod>
+        <imposto>
+          <ICMS>
+            <ICMS00>
+              <orig>0</orig>
+              <CST>00</CST>
+              <modBC>3</modBC>
+              <vBC>17.90</vBC>
+              <pICMS>18.0000</pICMS>
+              <vICMS>3.22</vICMS>
+            </ICMS00>
+          </ICMS>
+          <PIS>
+            <PISAliq>
+              <CST>01</CST>
+              <vBC>14.68</vBC>
+              <pPIS>1.6500</pPIS>
+              <vPIS>0.24</vPIS>
+            </PISAliq>
+          </PIS>
+          <COFINS>
+            <COFINSAliq>
+              <CST>01</CST>
+              <vBC>14.68</vBC>
+              <pCOFINS>7.6000</pCOFINS>
+              <vCOFINS>1.12</vCOFINS>
+            </COFINSAliq>
+          </COFINS>
+        </imposto>
+      </det>
+      <det nItem="3">
+        <prod>
+          <cProd>100693</cProd>
+          <cEAN>7898996133603</cEAN>
+          <xProd>ALCOOL LIQ LINEX 46% 1LT</xProd>
+          <NCM>38089919</NCM>
+          <CFOP>5102</CFOP>
+          <uCom>UN</uCom>
+          <qCom>1.0000</qCom>
+          <vUnCom>5.9900000000</vUnCom>
+          <vProd>5.99</vProd>
+          <cEANTrib>7898996133603</cEANTrib>
+          <uTrib>UN</uTrib>
+          <qTrib>1.0000</qTrib>
+          <vUnTrib>5.9900000000</vUnTrib>
+          <indTot>1</indTot>
+        </prod>
+        <imposto>
+          <ICMS>
+            <ICMS00>
+              <orig>0</orig>
+              <CST>00</CST>
+              <modBC>3</modBC>
+              <vBC>5.99</vBC>
+              <pICMS>18.0000</pICMS>
+              <vICMS>1.08</vICMS>
+            </ICMS00>
+          </ICMS>
+          <PIS>
+            <PISAliq>
+              <CST>01</CST>
+              <vBC>4.91</vBC>
+              <pPIS>1.6500</pPIS>
+              <vPIS>0.08</vPIS>
+            </PISAliq>
+          </PIS>
+          <COFINS>
+            <COFINSAliq>
+              <CST>01</CST>
+              <vBC>4.91</vBC>
+              <pCOFINS>7.6000</pCOFINS>
+              <vCOFINS>0.37</vCOFINS>
+            </COFINSAliq>
+          </COFINS>
+        </imposto>
+      </det>
+      <det nItem="4">
+        <prod>
+          <cProd>96972</cProd>
+          <cEAN>7896051123811</cEAN>
+          <xProd>ITAMBE IOG LIQ MORANGO 170G</xProd>
+          <NCM>04032000</NCM>
+          <CEST>1702100</CEST>
+          <CFOP>5405</CFOP>
+          <uCom>UN.</uCom>
+          <qCom>1.0000</qCom>
+          <vUnCom>3.9900000000</vUnCom>
+          <vProd>3.99</vProd>
+          <cEANTrib>7896051123811</cEANTrib>
+          <uTrib>UN.</uTrib>
+          <qTrib>1.0000</qTrib>
+          <vUnTrib>3.9900000000</vUnTrib>
+          <indTot>1</indTot>
+        </prod>
+        <imposto>
+          <ICMS>
+            <ICMS60>
+              <orig>0</orig>
+              <CST>60</CST>
+              <pRedBCEfet>0.0000</pRedBCEfet>
+              <vBCEfet>3.99</vBCEfet>
+              <pICMSEfet>18.0000</pICMSEfet>
+              <vICMSEfet>0.72</vICMSEfet>
+            </ICMS60>
+          </ICMS>
+          <PIS>
+            <PISNT>
+              <CST>06</CST>
+            </PISNT>
+          </PIS>
+          <COFINS>
+            <COFINSNT>
+              <CST>06</CST>
+            </COFINSNT>
+          </COFINS>
+        </imposto>
+      </det>
+      <det nItem="5">
+        <prod>
+          <cProd>03215</cProd>
+          <cEAN>SEM GTIN</cEAN>
+          <xProd>KG AMEIXA</xProd>
+          <NCM>08094000</NCM>
+          <CFOP>5102</CFOP>
+          <uCom>UN.</uCom>
+          <qCom>0.1650</qCom>
+          <vUnCom>18.9900000000</vUnCom>
+          <vProd>3.13</vProd>
+          <cEANTrib>SEM GTIN</cEANTrib>
+          <uTrib>UN.</uTrib>
+          <qTrib>0.1650</qTrib>
+          <vUnTrib>18.9900000000</vUnTrib>
+          <indTot>1</indTot>
+        </prod>
+        <imposto>
+          <ICMS>
+            <ICMS40>
+              <orig>0</orig>
+              <CST>40</CST>
+            </ICMS40>
+          </ICMS>
+          <PIS>
+            <PISNT>
+              <CST>06</CST>
+            </PISNT>
+          </PIS>
+          <COFINS>
+            <COFINSNT>
+              <CST>06</CST>
+            </COFINSNT>
+          </COFINS>
+        </imposto>
+      </det>
+      <total>
+        <ICMSTot>
+          <vBC>23.89</vBC>
+          <vICMS>4.30</vICMS>
+          <vICMSDeson>0.00</vICMSDeson>
+          <vFCP>0.00</vFCP>
+          <vBCST>0.00</vBCST>
+          <vST>0.00</vST>
+          <vFCPST>0.00</vFCPST>
+          <vFCPSTRet>0.00</vFCPSTRet>
+          <vProd>37.50</vProd>
+          <vFrete>0.00</vFrete>
+          <vSeg>0.00</vSeg>
+          <vDesc>0.00</vDesc>
+          <vII>0.00</vII>
+          <vIPI>0.00</vIPI>
+          <vIPIDevol>0.00</vIPIDevol>
+          <vPIS>0.32</vPIS>
+          <vCOFINS>1.49</vCOFINS>
+          <vOutro>0.00</vOutro>
+          <vNF>37.50</vNF>
+        </ICMSTot>
+      </total>
+      <transp>
+        <modFrete>9</modFrete>
+      </transp>
+      <pag>
+        <detPag>
+          <tPag>15</tPag>
+          <vPag>37.50</vPag>
+        </detPag>
+      </pag>
+      <infAdic>
+        <infCpl>Trib.aprox R$5,04 Federal e 6,75 Estadual; Fonte: IBPT 19CB11; COMPRADOR: SAMIRA; VENDA: 0010013133; OPERADOR: LIVIA (**); *****************************ATENCAO*******************************|DEVOLUCAO OU TROCA DE MERCADORIA SOMENTE COM A APRESENTACAO DESTE CUPOM FISCAL.| **********************************************************************; Assinatura: ____________________________________;</infCpl>
+      </infAdic>
+    </infNFe>
+    <infNFeSupl>
+      <qrCode>https://portalsped.fazenda.mg.gov.br/portalnfce/sistema/qrcode.xhtml?p=31241205856833000172650140002919509998740240|2|1|09|37.50|4F69776B384F3335753438324B51316A4D34376A785162455A76553D|1|EA2CBD910AEB47224770A2683F042414E15E3E1C</qrCode>
+      <urlChave>https://portalsped.fazenda.mg.gov.br/portalnfce</urlChave>
+    </infNFeSupl>
+    <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+      <SignedInfo>
+        <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+        <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+        <Reference URI="#NFe31241205856833000172650140002919509998740240">
+          <Transforms>
+            <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+            <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+          </Transforms>
+          <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+          <DigestValue>Oiwk8O35u482KQ1jM47jxQbEZvU=</DigestValue>
+        </Reference>
+      </SignedInfo>
+      <SignatureValue>fcGFIoJ7521WnbRibSNFWgTNG7I/9OzlgWG53id3TwdUxP0/9813lNIvoGfAEKGZhcZ1jKBGSz08D3ZVIlXL6d3PxeaIOa9vmPUFFTvlUGucHMeGTPBgZLEr87c2kL8JRGuMV+EZzUgoZNxrv7PGBYXD4Jb9qsqIXZz0YDTbMUK7N9PwPfe6tog3Zu6aP8j8ITXJtPpJEm6RvOw+W24biITo7/ro5EZjRpnp56cDOeJ+eQKAB7Wun/n9LXuhTLWHzbGbHVByTX6JD1MWj9oSG/3maHRTA8NPkjweVHzsO/gV0qX7ag5SjwvlnMFLqx5PdnJFrETqA5dasyX4PNK/fA==</SignatureValue>
+      <KeyInfo>
+        <X509Data>
+          <X509Certificate>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</X509Certificate>
+        </X509Data>
+      </KeyInfo>
+    </Signature>
+  </NFe>
+  <protNFe versao="4.00">
+    <infProt Id="ID131244869932438">
+      <tpAmb>1</tpAmb>
+      <verAplic>W-1.5.46</verAplic>
+      <chNFe>31241205856833000172650140002919509998740240</chNFe>
+      <dhRecbto>2024-12-09T17:01:39-03:00</dhRecbto>
+      <nProt>131244869932438</nProt>
+      <digVal>Oiwk8O35u482KQ1jM47jxQbEZvU=</digVal>
+      <cStat>100</cStat>
+      <xMotivo>Autorizado o uso da NF-e</xMotivo>
+    </infProt>
+  </protNFe>
+</nfeProc>
