@@ -22,6 +22,9 @@ yarn-error.log*
 .DS_Store
 Thumbs.db
 
-/xmls/processados/
+# Ignora arquivos do sistema operacional
+.DS_Store
+Thumbs.db
 
-/xmls/log_erros.txt
+# Ignora arquivos XML dentro da pasta /xmls e /xmls/processados
+/xmls/**/*.xml
