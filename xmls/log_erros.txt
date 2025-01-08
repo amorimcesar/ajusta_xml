@@ -1,2 +1,0 @@
-Log de Erros:
-Estrutura XML inválida ou incompleta: C:\dev\ajuste_xml\xmls\31241205856833000172650140002906161860360300-canc.xml

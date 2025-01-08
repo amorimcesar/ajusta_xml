@@ -28,3 +28,6 @@ Thumbs.db
 
 # Ignora arquivos XML dentro da pasta /xmls e /xmls/processados
 /xmls/**/*.xml
+
+# Ignora o arquivo de log de erros
+/xmls/log_erros.txt
